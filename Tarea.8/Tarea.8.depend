@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1743773739 source:c:\users\18094\onedrive - instituto tecnológico de las américas (itla)\tarea-8\tarea.8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
